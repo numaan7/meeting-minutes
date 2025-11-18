@@ -2,7 +2,7 @@
 const API_CONFIG = {
   endpoint: 'https://aicafe.hcl.com/AICafeService/api/v1/subscription/openai/deployments/gpt-4.1/chat/completions',
   apiVersion: '2024-12-01-preview',
-  apiKey: '283926b0-a1a5-4c40-b251-854df27645a9',
+  apiKey: '',
   model: 'gpt-4.1'
 };
 
