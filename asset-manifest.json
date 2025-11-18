@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/meeting-minutes/static/css/main.d0eff4b8.css",
+    "main.js": "/meeting-minutes/static/js/main.798bbb2d.js",
+    "static/js/453.beaa3013.chunk.js": "/meeting-minutes/static/js/453.beaa3013.chunk.js",
+    "index.html": "/meeting-minutes/index.html",
+    "main.d0eff4b8.css.map": "/meeting-minutes/static/css/main.d0eff4b8.css.map",
+    "main.798bbb2d.js.map": "/meeting-minutes/static/js/main.798bbb2d.js.map",
+    "453.beaa3013.chunk.js.map": "/meeting-minutes/static/js/453.beaa3013.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0eff4b8.css",
+    "static/js/main.798bbb2d.js"
+  ]
+}
